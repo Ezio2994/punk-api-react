@@ -1,0 +1,11 @@
+.cards {
+    padding-top: 20px;
+    border: 3px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 25px;
+    width: 80vw;
+    height: 100vh;
+    overflow: auto;
+}

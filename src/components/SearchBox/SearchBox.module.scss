@@ -1,0 +1,12 @@
+.searchBox {
+    height: 50px;
+    width: 80%;
+    border: #01A4CD 3px solid;
+    color: #01A4CD;
+    background-color: transparent;
+    font-size: 18px;
+
+    &:focus {
+        outline: none;
+    }
+}

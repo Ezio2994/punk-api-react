@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  width: 100%;
+  display: flex;
+  background-image: url('./assets//bg_pattern.png');
+  background-size: cover;
+  color: #01A4CD;
+
+  // .navBar {
+  //   width: 20%;
+  // }
+
+  // .beerCard {
+  //   width: 80%;
+  // }
+}
