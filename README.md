@@ -1,1 +1,1 @@
-exercising APIs unsage on react
+exercising APIs usage on react
